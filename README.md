@@ -4,7 +4,7 @@ Whole model of my master thesis which consisted in a investment model to determi
 
 ABOUT THE MODEL
 
-main: contains the running script. In oder to run it is necessary to download both the 01. Input and 02. Results folders. Additionally, all the files that are imported in main.py are also necessary, such as the load_data classes are the energy_model.
+main: contains the running script. In oder to run it is necessary to download both the input and results excel files. Additionally, all the files that are imported in main.py are also necessary, such as the load_data classes are the energy_model.
 
 BENDERS C: contains Benders decomposition with the simplified model. The one where the heating and electricity demand of both the reactor and the distillator is removed.
 
