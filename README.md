@@ -19,3 +19,5 @@ DW Simple: an initial version where there is only a big subproblem
 DW 1000: Dantzig-Wolfe where the subproblems are divided in stacks of 1000 hours.
 
 ABOUT THE EXCEL FILES: in order to run the models it is necessary to make changes in the excel files. Due to the fact that GitHub only admit files under 25MB, the files have been converted to binary workbooks. To run the models it may be necessary to undo the changes
+
+Please, contact me if there is any issue regarding the running models or just for more information.
